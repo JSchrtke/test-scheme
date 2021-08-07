@@ -1,4 +1,4 @@
-require("colorbuddy").setup()
+require('colorbuddy').setup()
 
 local Color = require('colorbuddy').Color
 
